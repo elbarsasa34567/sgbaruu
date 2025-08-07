@@ -1,0 +1,11 @@
+name = "sgbaruu"
+main = "_worker.js"
+compatibility_date = "2023-05-26"
+# node_compat = true
+workers_dev = true
+
+[vars]
+# PROXYIP = "211.230.110.231:50008"
+UUID = "4df12bd9-37ef-459c-8ab3-0257b6fae5cc"
+# SOCKS5 = "127.0.0.1:1080"
+# SOCKS5_RELAY = "true"
