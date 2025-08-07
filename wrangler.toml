@@ -5,25 +5,25 @@ compatibility_date = "2023-05-26"
 workers_dev = true
 
 [[routes]]
-pattern = "sgbaru"
+pattern = "sgbaruu"
 custom_domain = true
 [[routes]]
-pattern = "npca.netflix.com.sgbaru.elbarputra.my.id"
+pattern = "npca.netflix.com.sgbaruu.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.sgbaru.elbarputra.my.id"
+pattern = "quiz.int.vidio.com.sgbaruu.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "support.zoom.us.sgbaru.elbarputra.my.id"
+pattern = "support.zoom.us.sgbaruu.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.sgbaru.elbarputra.my.id"
+pattern = "ava.game.naver.com.sgbaruu.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "investor.fb.com.sgbaru.elbarputra.my.id"
+pattern = "investor.fb.com.sgbaruu.elbarputra.my.id"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.sgbaru.elbarputra.my.id"
+pattern = "zaintest.vuclip.com.sgbaruu.elbarputra.my.id"
 custom_domain = true
 
 [vars]
